@@ -1,4 +1,4 @@
-from streamlit import st
+from streamlit as st
 
 from google import genai
 from dotenv import load_dotenv
